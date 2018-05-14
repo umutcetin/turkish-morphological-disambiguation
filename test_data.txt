@@ -1,0 +1,77 @@
+iki iki+Num+Card ik+Noun+Prop+A3sg+P3sg+Nom ik+Noun+Prop+A3sg+Pnon+Acc iki+Noun+Prop+A3sg+Pnon+Nom
+adam adam+Noun+A3sg+Pnon+Nom ada+Noun+Prop+A3sg+P1sg+Nom ada+Noun+A3sg+P1sg+Nom
+adil adil+Adj adil+Noun+Prop+A3sg+Pnon+Nom
+olan ol+Verb+Pos^DB+Adj+PresPart o+Adj^DB+Verb+Acquire+Pos+Imp+A2sg o+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+olmayan ol+Verb+Neg^DB+Adj+PresPart
+sevinç sevinç+Noun+A3sg+Pnon+Nom sevinç+Noun+Prop+A3sg+Pnon+Nom
+yaşama yaşa+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom yaşam+Noun+A3sg+Pnon+Dat yaşa+Verb+Neg+Imp+A2sg
+farkı fark+Noun+A3sg+P3sg+Nom fark+Noun+A3sg+Pnon+Acc
+harika harika+Adj harika+Interj
+koydun koy+Verb+Pos+Past+A2sg ko+Noun+Prop+A3sg+Pnon+Nom^DB+Verb+Past+A2sg koy+Noun+A3sg+Pnon+Nom^DB+Verb+Past+A2sg
+ortaya orta+Noun+A3sg+Pnon+Dat orta+Noun+Prop+A3sg+Pnon+Dat orta+Adj^DB+Noun+A3sg+Pnon+Dat ortay+Adj^DB+Noun+A3sg+Pnon+Dat
+Üstelik üstelik+Adverb üstelik+Adj üstelik+Noun+A3sg+Pnon+Nom üste+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor üste+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+günler gün+Noun+Time+A3pl+Pnon+Nom gün+Noun+Prop+A3pl+Pnon+Nom günle+Verb+Pos+Aor+A3sg günle+Verb+Pos^DB+Adj+AorPart gü+Noun+Prop+A3sg+P2sg+Nom^DB+Verb+Pres+A3pl
+geceler gece+Noun+Time+A3pl+Pnon+Nom gecele+Verb+Pos+Aor+A3sg gecele+Verb+Pos^DB+Adj+AorPart ge+Noun+A3sg+Pnon+Equ^DB+Verb+Pres+A3pl ge+Noun+Prop+A3sg+Pnon+Equ^DB+Verb+Pres+A3pl
+aylar ay+Noun+Time+A3pl+Pnon+Nom ay+Noun+A3pl+Pnon+Nom ay+Noun+Prop+A3pl+Pnon+Nom ayla+Verb+Pos+Aor+A3sg ayla+Verb+Pos^DB+Adj+AorPart aylar+Noun+Prop+A3sg+Pnon+Nom
+yılları yıl+Noun+Time+A3pl+P3sg+Nom yıl+Noun+Time+A3sg+P3pl+Nom yıl+Noun+Time+A3pl+P3pl+Nom yıl+Noun+Time+A3pl+Pnon+Acc yıl+Noun+Prop+A3sg+P3pl+Nom yıl+Noun+Prop+A3pl+P3sg+Nom yıl+Noun+Prop+A3pl+P3pl+Nom yıl+Noun+Prop+A3pl+Pnon+Acc yılla+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+Pnon+Acc yılla+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+P3sg+Nom
+eklersek ekle+Verb+Pos+Aor+Cond+A1pl ek+Noun+A3pl+Pnon+Nom^DB+Verb+Cond+A1pl ekler+Noun+A3sg+Pnon+Nom^DB+Verb+Cond+A1pl ek+Adj^DB+Noun+A3pl+Pnon+Nom^DB+Verb+Cond+A1pl ekle+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+Pnon+Nom^DB+Verb+Cond+A1pl
+hayata hayat+Noun+A3sg+Pnon+Dat hayat+Noun+Prop+A3sg+Pnon+Dat
+gelen gelen+Adj gel+Verb+Pos^DB+Adj+PresPart gele+Noun+A3sg+P2sg+Nom ge+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg ge+Noun+Prop+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+sayı sayı+Noun+A3sg+Pnon+Nom say+Noun+A3sg+P3sg+Nom say+Noun+Prop+A3sg+P3sg+Nom say+Noun+Prop+A3sg+Pnon+Acc say+Noun+A3sg+Pnon+Acc
+muhakkak muhakkak+Noun+A3sg+Pnon+Nom muhakkak+Adverb muhakkak+Adj
+İyi iyi+Noun+A3sg+Pnon+Nom iyi+Adj iyi+Adverb i+Noun+Prop+A3sg+Pnon+Acc iy+Noun+Prop+A3sg+P3sg+Nom iy+Noun+Prop+A3sg+Pnon+Acc
+adil adil+Adj adil+Noun+Prop+A3sg+Pnon+Nom
+kötü kötü+Adverb kötü+Adj
+haksız hak+Noun+A3sg+Pnon+Nom^DB+Adj+Without hak+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+Without hak+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Adj+Without
+üstünse üstün+Noun+A3sg+Pnon+Nom^DB+Verb+Cond+A3sg üst+Noun+A3sg+P2sg+Nom^DB+Verb+Cond+A3sg üstünse+Verb+Pos+Imp+A2sg üstün+Adj^DB+Verb+Cond+A3sg üst+Noun+A3sg+Pnon+Gen^DB+Verb+Cond+A3sg üst+Noun+Prop+A3sg+Pnon+Gen^DB+Verb+Cond+A3sg üst+Noun+Prop+A3sg+P2sg+Nom^DB+Verb+Cond+A3sg üstü+Noun+Prop+A3sg+P2sg+Nom^DB+Verb+Cond+A3sg üs+Noun+A3sg+Pnon+Nom^DB+Verb+Past+A2sg+Cond üs+Noun+Prop+A3sg+Pnon+Nom^DB+Verb+Past+A2sg+Cond üst+Adj^DB+Noun+A3sg+Pnon+Gen^DB+Verb+Cond+A3sg üst+Adj^DB+Noun+A3sg+P2sg+Nom^DB+Verb+Cond+A3sg üstün+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Verb+Cond+A3sg
+soylu soylu+Adj soylu+Noun+Prop+A3sg+Pnon+Nom soy+Noun+A3sg+Pnon+Nom^DB+Adj+With soy+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Adj+With
+hayat hayat+Noun+A3sg+Pnon+Nom hayat+Noun+Prop+A3sg+Pnon+Nom
+sürme sür+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom sür+Verb+Neg+Imp+A2sg sürme+Noun+A3sg+Pnon+Nom sürme+Adj
+güzellik güzel+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom güzel+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom güzel+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+FitFor güzel+Noun+Prop+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom güzel+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+bakımından bakımından+Adverb bakım+Noun+A3sg+P3sg+Abl bakım+Noun+A3sg+P2sg+Abl
+sonsuz son+Noun+A3sg+Pnon+Nom^DB+Adj+Without sonsuz+Noun+A3sg+Pnon+Nom sonsuz+Adj son+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Adj+Without son+Num^DB+Noun+A3sg+Pnon+Nom^DB+Adj+Without sons+Noun+Prop+A3sg+Pnon+Nom^DB+Verb+Pres+A1pl
+üstün üstün+Noun+A3sg+Pnon+Nom üst+Noun+A3sg+P2sg+Nom üstün+Adj üst+Noun+A3sg+Pnon+Gen üst+Noun+Prop+A3sg+Pnon+Gen üst+Noun+Prop+A3sg+P2sg+Nom üstü+Noun+Prop+A3sg+P2sg+Nom üst+Adj^DB+Noun+A3sg+Pnon+Gen üst+Adj^DB+Noun+A3sg+P2sg+Nom üs+Noun+A3sg+Pnon+Nom^DB+Verb+Past+A2sg üs+Noun+Prop+A3sg+Pnon+Nom^DB+Verb+Past+A2sg
+devam devam+Noun+A3sg+Pnon+Nom deva+Noun+A3sg+P1sg+Nom devam+Interj
+ettim et+Verb+Pos+Past+A1sg et+Noun+A3sg+Pnon+Nom^DB+Verb+Past+A1sg
+şimdi şimdi+Adverb şimdi+Noun+Time+A3sg+Pnon+Nom şi+Noun+Prop+A3sg+P1sg+Nom^DB+Verb+Past+A3sg
+geriye geri+Noun+A3sg+Pnon+Dat geri+Adj^DB+Noun+A3sg+Pnon+Dat
+bizi biz+Noun+A3sg+Pnon+Acc biz+Noun+A3sg+P3sg+Nom biz+Pron+Pers+A1pl+Pnon+Acc
+açıklamalarımızı açıklama+Noun+A3pl+P1pl+Acc açıkla+Verb+Pos^DB+Noun+Inf2+A3pl+P1pl+Acc
+adil adil+Adj adil+Noun+Prop+A3sg+Pnon+Nom
+yerine yerine+Adverb yer+Noun+A3sg+P3sg+Dat yer+Noun+A3sg+P2sg+Dat yer+Noun+Prop+A3sg+P3sg+Dat yer+Noun+Prop+A3sg+P2sg+Dat yeri+Noun+Prop+A3sg+P2sg+Dat yerin+Verb+Pos+Opt+A3sg yerine+Noun+A3sg+Pnon+Nom yer+Verb^DB+Verb+Pass+Pos+Opt+A3sg ye+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+P3sg+Dat ye+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+P2sg+Dat ye+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+P3sg+Dat ye+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+P2sg+Dat
+tam tam+Adj tam+Adverb ta+Noun+Prop+A3sg+P1sg+Nom tam+Noun+A3sg+Pnon+Nom
+getirir getir+Verb+Pos+Aor+A3sg getir+Verb+Pos^DB+Adj+AorPart
+yarar yarar+Noun+A3sg+Pnon+Nom yar+Verb+Pos^DB+Adj+AorPart yar+Verb+Pos+Aor+A3sg yara+Verb+Pos+Aor+A3sg yara+Verb+Pos^DB+Adj+AorPart yarar+Adj
+adil adil+Adj adil+Noun+Prop+A3sg+Pnon+Nom
+davranışın davranış+Noun+A3sg+Pnon+Gen davran+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Gen davran+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Nom davranış+Noun+A3sg+P2sg+Nom
+değeri değer+Noun+A3sg+Pnon+Acc değer+Noun+A3sg+P3sg+Nom değ+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+Pnon+Acc değ+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+P3sg+Nom
+Beriki beriki+Pron+A3sg+Pnon+Nom beriki+Adj beriki+Pron+A1pl+Pnon+Nom
+ona o+Pron+Demons+A3sg+Pnon+Dat o+Pron+Pers+A1pl+Pnon+Dat o+Pron+Demons+A1pl+Pnon+Dat o+Pron+Pers+A3sg+Pnon+Dat on+Verb+Pos+Opt+A3sg on+Noun+Prop+A3sg+Pnon+Dat ona+Verb+Pos+Imp+A2sg o+Adj^DB+Noun+A3sg+P2sg+Dat on+Num+Card^DB+Noun+A3sg+Pnon+Dat
+bakarak bak+Verb+Pos^DB+Adv+ByDoingSo bakarak+Adverb
+diye diye+Postp+PCNom de+Verb+Pos+Opt+A3sg
+ruhun ruh+Noun+A3sg+Pnon+Gen ruh+Noun+A3sg+P2sg+Nom
+modelini model+Noun+A3sg+P3sg+Acc model+Noun+A3sg+P2sg+Acc mode+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+A3sg+P2sg+Acc mode+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+A3sg+P2sg+Acc
+var var+Noun+A3sg+Pnon+Nom var+Adj var+Verb+Pos+Imp+A2sg
+uysal uysal+Adj uysal+Noun+Prop+A3sg+Pnon+Nom uysal+Adverb
+hayvanların hayvan+Noun+A3pl+Pnon+Gen hayvan+Noun+A3pl+P2sg+Nom hayvan+Noun+Prop+A3pl+P2sg+Nom hayvan+Noun+Prop+A3pl+Pnon+Gen hayvan+Adj^DB+Noun+A3pl+P2sg+Nom hayvan+Adj^DB+Noun+A3pl+Pnon+Gen hayvan+Adj^DB+Noun+A3pl+P2sg+Nom hayvan+Adj^DB+Noun+A3pl+Pnon+Gen
+başları baş+Noun+A3pl+Pnon+Acc baş+Noun+A3pl+P3sg+Nom baş+Noun+A3sg+P3pl+Nom baş+Noun+A3pl+P3pl+Nom baş+Noun+Prop+A3sg+P3pl+Nom baş+Noun+Prop+A3pl+P3sg+Nom baş+Noun+Prop+A3pl+P3pl+Nom baş+Noun+Prop+A3pl+Pnon+Acc başlar+Noun+Prop+A3sg+P3sg+Nom başlar+Noun+Prop+A3sg+Pnon+Acc başla+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+Pnon+Acc başla+Verb+Pos^DB+Adj+AorPart^DB+Noun+A3sg+P3sg+Nom
+sallanan salla+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart sal+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PresPart sal+Noun+Prop+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PresPart
+canavar canavar+Noun+A3sg+Pnon+Nom canavar+Adj
+tasarla tasarla+Verb+Pos+Imp+A2sg tasar+Noun+A3sg+Pnon+Ins
+düşünce düşünce+Noun+A3sg+Pnon+Nom düş+Verb+Pos^DB+Adv+When düş+Noun+A3sg+P2sg+Equ düş+Noun+A3sg+P3sg+Equ düş+Verb+Pos^DB+Adj+When düşün+Noun+A3sg+Pnon+Equ
+balmumundan balmumu+Noun+A3sg+Pnon+Abl balmum+Noun+A3sg+P2sg+Abl balmum+Noun+A3sg+P2sg+Abl balmum+Noun+A3sg+P3sg+Abl balmumu+Noun+A3sg+P2sg+Abl balmum+Noun+A3sg+P3sg+Abl
+benzer benzer+Adj benze+Verb+Pos+Aor+A3sg benze+Verb+Pos^DB+Adj+AorPart benzer+Noun+A3sg+Pnon+Nom benzer+Noun+Prop+A3sg+Pnon+Nom
+kolay kolay+Adverb kolay+Adj kolay+Noun+A3sg+Pnon+Nom kolay+Noun+Prop+A3sg+Pnon+Nom
+aslanı aslan+Noun+A3sg+Pnon+Acc aslan+Noun+A3sg+P3sg+Nom aslan+Noun+Prop+A3sg+P3sg+Nom aslan+Noun+Prop+A3sg+Pnon+Acc
+insanı insan+Noun+A3sg+Pnon+Acc insan+Noun+A3sg+P3sg+Nom insa+Noun+Prop+A3sg+P2sg+Acc insan+Adj^DB+Noun+A3sg+P3sg+Nom insan+Adj^DB+Noun+A3sg+Pnon+Acc
+kolay kolay+Adverb kolay+Adj kolay+Noun+A3sg+Pnon+Nom kolay+Noun+Prop+A3sg+Pnon+Nom
+canlandırılıyor canlan+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos+Prog+A3sg can+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus^DB+Verb+Pass+Pos+Prog+A3sg can+Adj^DB+Verb+Acquire^DB+Verb+Caus^DB+Verb+Pass+Pos+Prog+A3sg can+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus^DB+Verb+Pass+Pos+Prog+A3sg
+Şimdi şimdi+Adverb şimdi+Noun+Time+A3sg+Pnon+Nom şi+Noun+Prop+A3sg+P1sg+Nom^DB+Verb+Past+A3sg
+tek tek+Num tek+Adverb tek+Noun+A3sg+Pnon+Nom tek+Noun+Prop+A3sg+Pnon+Nom
+dışına dış+Noun+A3sg+P3sg+Dat dış+Noun+A3sg+P2sg+Dat dışı+Noun+Prop+A3sg+P2sg+Dat dış+Adj^DB+Noun+A3sg+P2sg+Dat dış+Adj^DB+Noun+A3sg+P3sg+Dat
+şeklini şekil+Noun+A3sg+P3sg+Acc şekil+Noun+A3sg+P2sg+Acc şekli+Adj^DB+Noun+A3sg+P2sg+Acc şek+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+A3sg+P2sg+Acc
+kapla kapla+Verb+Pos+Imp+A2sg kap+Noun+A3sg+Pnon+Ins kap+Noun+A3sg+Pnon+Ins kap+Noun+Prop+A3sg+Pnon+Ins kap+Noun+A3sg+Pnon+Ins
+sadece sadece+Adverb sade+Adj^DB+Adj+Quite sade+Adj^DB+Adv+Ly sade+Noun+Prop+A3sg+Pnon+Equ
+canlı canlı+Adj can+Noun+A3sg+Pnon+Nom^DB+Adj+With canlı+Adverb canlı+Noun+A3sg+Pnon+Nom canlı+Noun+Prop+A3sg+Pnon+Nom can+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Adj+With
+varlık varlık+Noun+A3sg+Pnon+Nom var+Adj^DB+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom varlık+Noun+Prop+A3sg+Pnon+Nom var+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor var+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+insan insan+Noun+A3sg+Pnon+Nom insa+Noun+Prop+A3sg+P2sg+Nom insan+Adj
