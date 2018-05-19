@@ -100,26 +100,6 @@ public class Word2VecRawTextExample {
 		vec.fit();
 
 		log.info("Writing word vectors to text file....");
-
-		// Prints out the closest 10 words to "day". An example on what to do with these
-		// Word Vectors.
-//		log.info("Closest Words:");
-//		Collection<String> lst = vec.wordsNearestSum("a", 1);
-//		log.info("10 Words closest to 'a': {}", lst);
-
-//		lst = vec.wordsNearestSum("yaşama", 10);
-//		log.info("10 Words closest to 'yaşama': {}", lst);
-
-		// lst = vec.wordsNearestSum("neşe", 10);
-		// log.info("10 Words closest to 'neşe': {}", lst);
-//
-//		log.info("Cosine Similarity (The closer it is to 1, the more similar the net perceives those words to be");
-//		Double cosineSim = vec.similarity("sevinç", "neşe");
-//		log.info("Cosine Similarity between 'sevinç' and 'neşe' : " + cosineSim);
-//
-//		cosineSim = vec.similarity("evet", "öyle");
-//		log.info("Cosine Similarity between 'evet' and 'öyle' : " + cosineSim);
-
 		
 		// Finding most frequently used words- this code was used once
 
